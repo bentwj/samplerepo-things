@@ -2,3 +2,5 @@ jumbu
 pears
 berries
 cherries
+strawberry
+mango
