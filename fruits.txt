@@ -1,4 +1,4 @@
-apples
+pears
 berries
 cherries
 strawberry
